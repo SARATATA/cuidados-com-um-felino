@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(228, 102, 228);
+    color: white;
+    font-size: 20px;
+}
+h1{
+   text-align: center;
+}   
+#f{
+    width: 330px;
+}
+#l{
+    display: inline-block;
+    vertical-align: top;
+}
+#jk{
+    width: 330px;
+    margin-left: 60px;
+    margin-top: -20px;
+}
+#p{
+    display: inline-block;
+	vertical-align: top;
+}
+#j{
+    width: 200px;
+}
+#o{
+	width: 50%;
+    display: inline-block;
+	vertical-align: top;
+}
